@@ -1,4 +1,4 @@
-# TrustIntervalsProyect
+# ¿Eres gordo según los intervalos de confianza?. Un estudio de los datos antropométricos del ser humano.
 
 En el presente proyecto , se estudian las propiedades de la distribución normal, en un conjunto de datos antropométricos, en específico del proceso de estandarización de una
 distribución normal. A la vez, estudiamos el método de máxima verosimilitud y junto al proceso de estandarización, logramos obtener una fórmula explícita para el cálculo de 
